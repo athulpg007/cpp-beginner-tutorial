@@ -21,7 +21,7 @@ class Book {
         }
 };
 
-int main16() {
+int main() {
     Book book1("Harry Potter", "JK Rowling", 465);
     Book book2("Lord of the Rings", "Tolkein", 720);
     Book book3;

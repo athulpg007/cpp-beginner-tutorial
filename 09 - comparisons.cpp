@@ -4,7 +4,7 @@ using namespace std;
 
 int max(int x, int y, int z);
 
-int main8() {
+int main() {
     cout << max(1, 2, 4) << endl;
     return 0;
 }

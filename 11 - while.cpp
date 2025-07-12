@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main9() {
+int main() {
     int index = 1;
 
     do {

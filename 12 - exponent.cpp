@@ -11,7 +11,7 @@ int power(int x, int y) {
     return result;
 }
 
-int main12() {
+int main() {
     cout << power(2, 3) << endl;
     return 0;
 }

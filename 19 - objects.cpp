@@ -22,7 +22,7 @@ class Student {
         }
 };
 
-int main17() {
+int main() {
     Student student1("Jim", "Business", 3.4);
     cout << student1.hasHonors() << endl;
     Student student2("Pam", "Engineering", 3.7);
